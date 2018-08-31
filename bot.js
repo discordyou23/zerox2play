@@ -7,6 +7,7 @@ client.on('ready', () => {
 
 
 
+
 client.on('ready', () => {                           
 client.user.setGame(`2music`,'https://www.twitch.tv/fofodiscord');                                                                                                                                                                                                                                                                                                                                                                                                                            
 });
